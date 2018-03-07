@@ -1,0 +1,4 @@
+#Thu Mar 01 13:31:29 MST 2018
+base.0=/Users/nejitawo/AndroidStudioProjects/FlutterApps/Flutter-Quiz-Preview-App/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
